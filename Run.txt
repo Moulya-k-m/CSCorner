@@ -1,0 +1,1 @@
+ctrl+alt+N to run programs
