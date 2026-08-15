@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CityPulse</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="title"><h1>CityPulse</h1>
+    <h4>Report urban problems. Help build a better city.</h4></div>
+    <form class="report">
+    Report your problem:
+    <div class="problem"><select name="problems" id="problems">
+    <option value="Waterlogging">Waterlogging</option>
+    <option value="Garbage">Garbage</option>
+    <option value="Street Lights">Street Lights</option>
+    <option value="Road Damage">Road Damage</option>
+    </select></div></form>
+    <form class="describe">
+    <textarea name="problems" id="description" placeholder="Please describe the problem" rows="3" cols="30"></textarea>
+    <div class="text">Location:
+    <input type="text" placeholder="Enter the location"></div>
+    <div class="submit"><input type="submit" value="Submit Report"></div>
+    </form>
+</body>
+</html>
