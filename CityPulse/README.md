@@ -82,4 +82,5 @@ The goal is to gradually turn a simple idea into a functional platform that can 
 ### 🌱 Built & continuously improved by Moulya
 
 **Status:** 🚧 Under Development
+
 **Next milestone:** JavaScript Integration ⚡
